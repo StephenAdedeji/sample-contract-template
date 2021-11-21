@@ -1,0 +1,17 @@
+{
+  "$class": "org.example.mytemplate.MyContract",
+  "companyname": "Test NIGERIA LTD",
+  "rc": "RC. 1932",
+  "address": "Plot B2 Akinsway, Victoria Island, Lagos",
+  "phone": "07038211889",
+  "email": "akinben66@yahoo.com",
+  "website": "www.akinben.com",
+  "senderref": "CON/2015/01/02",
+  "recipientref": "    ",
+  "date": "2018-01-01T00:00:00.000+01:00",
+  "newname": "GOLD\nPALM LTD",
+  "specialresdate": "2014-02-01T00:00:00.000+01:00",
+  "secretaryname": "Akin Olawale Sunday Esq.",
+  "contractId": "6a9fbb35-3b22-4c5e-9247-ad75be828c58",
+  "$identifier": "6a9fbb35-3b22-4c5e-9247-ad75be828c58"
+}

@@ -1,0 +1,33 @@
+namespace org.example.mytemplate
+
+import org.accordproject.contract.* from https://models.accordproject.org/accordproject/contract.cto
+import org.accordproject.runtime.* from https://models.accordproject.org/accordproject/runtime.cto
+
+transaction MyRequest extends Request {
+  o String oldname
+}
+
+transaction MyResponse extends Response {
+  o String newname
+}
+
+/**
+ * The model for the contract
+ */
+asset MyContract extends Contract {
+  /**
+   * The name for the contract
+   */
+  o String companyname
+  o String rc
+  o String address
+  o String phone
+  o String email
+  o String website
+  o String senderref
+  o String recipientref
+  o DateTime date
+  o String newname
+  o DateTime specialresdate
+  o String secretaryname
+}

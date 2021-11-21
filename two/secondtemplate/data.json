@@ -1,0 +1,15 @@
+{
+  "$class": "org.example.mytemplate.MyContract",
+  "solicitor": "Benakol Solicitors",
+  "solicitoraddress": "No. 4 Law School Road, Bwari, Abuja.",
+  "phone": "07038211889",
+  "email": "benakolconsultantlegal@yahoo.com",
+  "ourref": "SR/2015/89",
+  "yourref": "   ",
+  "date": "2015-06-01T00:00:00.000+01:00",
+  "query": "Fidel Imafidon Group of\nCompanies Nigeria Limited",
+  "client": "Benakol Bank Plc.,",
+  "principal": "FIDELIS IMAFIDON",
+  "contractId": "cb21c39f-cc36-4d9f-9bac-b2f4b8cc39c5",
+  "$identifier": "cb21c39f-cc36-4d9f-9bac-b2f4b8cc39c5"
+}

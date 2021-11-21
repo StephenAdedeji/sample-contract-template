@@ -1,0 +1,17 @@
+{
+  "$class": "org.example.mytemplate.MyContract",
+  "companyname": "KENNYBABE PALM NIGERIA LTD",
+  "rc": "RC. 1932",
+  "address": "Plot B2 Akinsway, Victoria Island, Lagos",
+  "phone": "07038211889",
+  "email": "akinben66@yahoo.com",
+  "website": "www.akinben.com",
+  "senderref": "CON/2015/01/02",
+  "recipientref": "    ",
+  "date": "2018-01-01T00:00:00.000+01:00",
+  "newname": "GOLD\nPALM LTD",
+  "specialresdate": "2014-02-01T00:00:00.000+01:00",
+  "secretaryname": "Akin Olawale Sunday Esq.",
+  "contractId": "631b3a58-064d-4d50-aee3-fb06bf6cd278",
+  "$identifier": "631b3a58-064d-4d50-aee3-fb06bf6cd278"
+}
